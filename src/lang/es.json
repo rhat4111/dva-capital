@@ -1,0 +1,523 @@
+{
+  "announceBar": {
+    "giftCard": {
+      "new": "¡Nuevo!",
+      "text": "DVA Gift Card: Regala futuro, regala inversiones",
+      "moreAbout": "Conoce más"
+    }
+  },
+  "intercom": {
+    "chatWithExpert": "Hola, tengo algunas dudas que me gustaría aclarar"
+  },
+  "footer": {
+    "contact": "¿Necesitas contactarte con nosotros?",
+    "mobilePhone": "+569 6587 6643",
+    "email": "tudva@dvacapital.com",
+    "localPhone": "+569 6587 6643",
+    "legal": "DVA Capital desarrollado por DVA Tools SpA - Algunos derechos reservados",
+    "predictions": "Predicciones 2022",
+    "predictionsText": "Para ver los términos y condiciones del concurso Predicciones DVA 2022, haz click en el siguiente link:",
+    "disclaimer": "La información y antecedentes que se muestran y entregan en www.dvacpital.com fueron obtenidos de fuentes públicas, por lo que DVA Capital ni sus directores, representantes o ejecutivos se hacen responsables de su contenido, veracidad o exactitud. DVA Capital es agente colocador de Ameris Capital Administradora General de Fondos S.A. DVA Capital mantiene un contrato con Ameris Capital Administrador General de Fondos S.A. para administrar la cartera de algunos de los fondos que se distribuyen a través de DVA Capital. La remuneración por los servicios de administración de cartera es pagada por Ameris Capital Administrador General de Fondos S.A. y no por los fondos. Los fondos mutuos y de inversión a los cuales Usted puede acceder por intermedio de DVA Capital están fiscalizados por la Comisión para el Mercado Financiero. Mayor información o antecedentes de dichos fondos los puede encontrar además en https://ameris.cl/agf/ y en www.cmfchile.cl. Infórmese de las características esenciales de la inversión en estos fondos, las que se encuentran contenidas en su reglamento interno. La rentabilidad o ganancia obtenida en el pasado por este fondo, no garantiza que ella se repita en el futuro. Los valores de las cuotas de los fondos son variables. Para informarse de la situación financiera del fondo, revise sus estados financieros. Antes de invertir, le recomendamos informarse y pedir toda aquella información que Usted pueda necesitar para tomar una adecuada, y acorde su perfil, decisión de inversión.",
+    "imageHeader": {
+      "ameris": "Fondos administrados por:",
+      "cmf": "Fondos regulados"
+    },
+    "social": "Nuestras redes sociales",
+    "externalLinks": {
+      "termsAndConditions": "Términos y condiciones",
+      "privacyPolicies": "Políticas de privacidad",
+      "information": "Tratamiento de la información",
+      "aboutDVA": "Sobre DVA Capital",
+      "aboutAmeris": "Sobre Ameris Capital",
+      "helpCenter": "Centro de Ayuda"
+    }
+  },
+  "notFound": {
+    "title": "No se encuentra (404)",
+    "text": "La página que estás buscando no existe.",
+    "redirect": "Ir al inicio"
+  },
+  "miDva": "Mi DVA",
+  "miDvaHref": "https://mi.dvacapital.com/",
+  "register": "Hazte cliente",
+  "registerHref": "https://mi.dvacapital.com/signup",
+  "blogDva": "Blog DVA",
+  "blogHref": "https://blog.dvacapital.com/",
+  "compareDva": "Comparador Fondos",
+  "compareHref": "https://fondos.dvatools.com/",
+  "home": "Inicio",
+  "us": "Nosotros",
+  "ourFunds": "Fondos",
+  "ourFees": "Nuestras comisiones",
+  "fundDetail": "Detalles {fundName}",
+  "profiling": "Define tu perfil de inversionista",
+  "fieldRequired": "Este campo es necesario",
+  "validEmail": "Ingresa un correo válido",
+  "enterEmail": "Ingresa tu correo",
+  "createAccount": "Crear mi cuenta online",
+  "createAccountLink": "https://mi.dvacapital.com/signup",
+  "disclaimer": "La administración de los fondos Ameris DVA Silicon Fund, Ameris DVA Multiaxis, Ameris DVA Medtech Fund, Ameris DVA Deuda Privada USA y Ameris DVA All Cap Chile (referidos a continuación como “los Fondos”) es realizada por Ameris Capital Administradora General de Fondos S.A. y la gestión de cartera del fondo es realizada por DVA Capital S.A. La fiscalización de Ameris Capital Administradora General de Fondos S.A. y de los Fondos corresponde a la Comisión para el Mercado Financiero (CMF). La rentabilidad o ganancia obtenida en el pasado por los Fondos, no garantiza que ella se repita en el futuro. Los valores de las cuotas de los fondos son variables. Infórmese de las características esenciales de la inversión en los Fondos de Inversión y Fondo Mutuos, las que se encuentran contenidas en su reglamento interno, contrato de suscripción de cuotas, contrato de promesa de suscripción y facsímil de título. Para informarse de la situación financiera de los Fondos, revise sus estados financieros.",
+  "ourFundsView": {
+    "banner": {
+      "title": "Con DVA, todos pueden invertir como profesionales"
+    },
+    "howWeDoIt": {
+      "preTitle": "Cómo lo hacemos",
+      "title": "La clave para invertir bien",
+      "titleBold": "es la diversificación",
+      "titleSize": "40px",
+      "text": "En el mundo de las inversiones, poner todos los huevos en la misma canasta nunca ha sido buena idea, porque estarías corriendo demasiado riesgo (o demasiado poco). Revisa la variedad de fondos que tenemos para que logres una sana diversificación, todo en el mismo lugar."
+    },
+    "diversify": {
+      "title": "Diversifícate",
+      "text": "Para invertir bien, lo principal es diseñar un portafolio diversificado. Por eso, contamos con 4 categorías de fondos para que puedas distribuir tus inversiones en distintos tipos de riesgo y temas.",
+      "variable": {
+        "title": "Renta variable",
+        "text": "Principal fuente de retornos del portafolio."
+      },
+      "fixed": {
+        "title": "Renta fija",
+        "text": "Disminución de volatilidad y refugio ante momentos difíciles."
+      },
+      "alternative": {
+        "title": "Activos alternativos",
+        "text": "Bajas correlaciones con el resto de activos y activos oportunistas."
+      },
+      "mixed": {
+        "title": "Fondos mixtos",
+        "text": "Mix de fondos para una solución única."
+      }
+    },
+    "ourStrategy": {
+      "preTitle": "Nuestra estrategia",
+      "title": "Tus objetivos personales, invertidos en <strong>lo que está transformando el mundo</strong>",
+      "text": "Creamos estrategias de inversión con miras a las tendencias que están cambiando el mundo y diseñamos soluciones que se acomoden y hagan realidad tus objetivos personales."
+    },
+    "fundsList": {
+      "preTitle": "Nuestros fondos",
+      "title": "Una parrilla de fondos <strong>para que puedas diversificarte</strong>",
+      "text": "Invierte en las tendencias de largo plazo que están cambiando el mundo. En el camino, invierte de forma óptima para tus objetivos de corto y mediano plazo",
+      "invitation": "<strong>Estás a un solo paso</strong> de invertir",
+      "inviteButton": "Crear mi cuenta online",
+      "buttonHref": "https://mi.dvacapital.com/signup",
+      "errorLoading": "Hubo un error obteniendo los datos de los fondos, intente refrescar la página. Si el error persiste, informe a nuestro equipo a través del chat.",
+      "investmentSector": {
+        "9118": "Inversiones  <strong> globales y diversificadas </strong>",
+        "9395": "Inversiones  <strong> locales y diversificadas </strong>",
+        "9725": "Inversiones en <strong> tecnologías de la información </strong>",
+        "9937": "Inversiones en <strong> equipamiento y tecnología en salud </strong>",
+        "9958": "Inversiones en <strong> deuda privada USA líquida </strong>",
+        "9994": "Inversiones para el <strong> corto plazo </strong>",
+        "10074": "Inversiones para el <strong> corto y mediano plazo </strong>"
+      }
+    },
+    "fundCard": {
+      "currency": "Moneda: ",
+      "idealTerm": "Plazo ideal: ",
+      "taxBenefit": "Beneficio tributario: ",
+      "type": "Tipo: ",
+      "commission": "Remuneración fija: ",
+      "LONG": "Más de 4 años",
+      "MEDIUM": "Entre 3 a 4 años",
+      "MEDIUM_LONG": "Entre 3 a 4 años",
+      "SHORTMEDIUM": "Entre 1 a 4 años",
+      "SHORT_MEDIUM": "Entre 1 a 4 años",
+      "VARIABLE": "Renta Variable",
+      "SHORT": "Hasta un año",
+      "DEBT": "Activos Alternativos",
+      "MIXED": "Fondos Mixtos",
+      "FIXED": "Renta Fija",
+      "USD": "Dólar EE.UU",
+      "CLP": "Peso chileno",
+      "multiaxisCommissionDisclaimer": "Al 0,3% de remuneración fija anual del Ameris DVA Multiaxis Serie A se debe sumar un 0,90% de remuneración fija anual del DVA Global All Cap Ltd., el cual constituye el objeto principal de inversión del Ameris DVA Multiaxis",
+      "siliconCommissionDisclaimer": "Al 0,35% de remuneración fija anual del Ameris DVA Silicon Fund Serie C se debe sumar un 0,60% de remuneración fija anual del DVA Silicon Fund Ltd., el cual constituye el objeto principal de inversión del Ameris DVA Silicon Fund",
+      "knowMore": "Conoce más"
+    },
+    "fundFees": {
+      "title": "Inversiones a",
+      "titleBold": "un precio justo",
+      "text": "En DVA, creemos en la transparencia con nuestros clientes. Sabemos que la comisión es un componente importante cuando se trata de decidir, así que entregamos la información sin letra chica ni costos escondidos. Ten en cuenta que la forma en que se cobra la comisión depende del nivel de riesgo que tiene cada fondo.",
+      "feesText": "Tabla de comisiones por Fondo de Inversión",
+
+      "table": {
+        "headers": [
+          "Categoría",
+          "Series sin monto mínimo",
+          "Comisión fija",
+          "Comisión variable",
+          "Detalle Performance Fee (comisión variable)"
+        ],
+        "yes": "Sí",
+        "upTo": "Hasta"
+      }
+    },
+    "tips": {
+      "preTitle": "DVA Tips",
+      "title": "Nuestros consejos<strong> de inversión</strong>",
+      "tip1": {
+        "title": "Paga tus deudas caras",
+        "text": "Si tienes obligaciones con altas tasas de interés, pagarlas cuanto antes es por lejos tu mejor inversión. Hazte cargo de ellas y luego de otros planes de inversión."
+      },
+      "tip2": {
+        "title": "Crea tus fondos de emergencia",
+        "text": "No sabemos cuándo vendrá, pero siempre es clave estar preparados para la tormenta. Tomar precauciones no está demás y llegado el momento, nadie se arrepiente."
+      },
+      "tip3": {
+        "title": "Define tus objetivos",
+        "text": "No es lo mismo invertir pensando en las vacaciones del próximo año que hacerlo con miras a nuestra jubilación. Tus objetivos definen en qué y cómo invertir."
+      },
+      "tip4": {
+        "title": "Invierte con viento a favor",
+        "text": "Invertir en las compañías que cambian el mundo ha sido una buena estrategia a lo largo de la historia y creemos que seguirán impulsando el crecimiento global."
+      }
+    }
+  },
+  "fundDetailView": {
+    "errorLoading": "Hubo un error obteniendo los datos del portafolio del fondo, intente refrescar la página. Si el error persiste, informe a nuestro equipo a través del chat.",
+    "fundDescription": {
+      "dollarInvestments": "Inversiones en dólares",
+      "VARIABLE": "Fondo de Renta Variable",
+      "FIXED": "Fondo de Renta Fija",
+      "MIXED": "Fondos mixtos",
+      "DEBT": "Fondo de Deuda",
+      "LONG": "Largo plazo",
+      "SHORT": "Corto plazo",
+      "SHORT_MEDIUM": "Corto y mediano plazo",
+      "MEDIUM_LONG": "Mediano y largo plazo",
+      "title": "Descripción y ficha",
+      "type": "Tipo",
+      "companies": "Nº de compañías invertidas",
+      "creationDate": "Inicio operaciones",
+      "AGM": "Administradora General de Fondos",
+      "investmentsTeam": "Administrador de cartera",
+      "horizon": "Horizonte de inversión",
+      "fundAssets": "Patrimonio del fondo",
+      "text": "Las nuevas tecnologías, como el Machine Learning, Big Data, Internet of things y Artificial Intelligence, son la base del crecimiento explosivo de los datos. Por eso, este Fondo invierte en las compañías que dominan la fabricación de chips en el mundo. Estas empresas se dedican al análisis y almacenamiento de datos y/o participan en la investigación, diseño, prestación de servicios o fabricación de softwares y hardwares para esos fines.",
+      "customDisclaimers": {
+        "9118": "*El fondo Ameris DVA Multiaxis tiene por objeto principal invertir directamente en el fondo extranjero denominado DVA Global All -Cap Fund Ltd., por lo que los valores expresados respecto de exposición sectorial, regional, por tamaño, estrategia de inversión y de los principales emisores provienen del fondo extranjero denominado DVA Global All -Cap Fund Ltd.",
+        "9725": "*El fondo Ameris DVA Silicon Fund tiene por objeto principal invertir directamente en el fondo extranjero denominado DVA Silicon Fund Ltd., por lo que los valores expresados respecto de exposición sectorial, regional, por tamaño, estrategia de inversión y de los principales emisores provienen del fondo extranjero denominado DVA Silicon Fund Ltd."
+      }
+    },
+    "returns": {
+      "chart": {
+        "title": "Rentabilidad a lo largo del tiempo"
+      },
+      "table": {
+        "headers": {
+          "fund": "Fondo / Serie",
+          "YTD": "YTD",
+          "M3": "3M",
+          "M6": "6M",
+          "Y1": "1Y",
+          "Y2": "2Y",
+          "Y5": "5Y",
+          "Y7": "7Y",
+          "Y10": "10Y",
+          "maximum": "Inicio"
+        }
+      }
+    },
+    "barChart": {
+      "temporaryTitle": "Distribución Geográfica",
+      "title": "<strong>Distribución por Sectores</strong> (% del valor de Portafolio)",
+      "notHundred": "(principales activos, no suma 100%)",
+      "proportion": "Participación: {proportion}%",
+      "distribution": "Distribución",
+      "industryInvestments": {
+        "Information Technology": "Tecnologías de la Información",
+        "Technology": "Tecnología",
+        "Materials": "Materiales",
+        "Utilities": "Servicios de Utilidad Pública",
+        "Financials": "Finanzas",
+        "Consumer Staples": "Consumo básico",
+        "Consumer Discretionary": "Consumo no básico",
+        "Energy": "Energía",
+        "Communication Services": "Servicios de Telecomunicaciones",
+        "Communications": "Servicios de Telecomunicaciones",
+        "Consumer, Cyclical": "Consumo cíclico",
+        "Consumer, Non-cyclical": "Consumo no cíclico",
+        "Financial": "Finanzas",
+        "Health Care": "Salud",
+        "Basic Materials": "Insumos básicos",
+        "Others": "Otros",
+        "Caja": "Caja",
+        "Real Estate": "Bienes raíces",
+        "Industrials": "Industriales",
+        "Discretionary": "Discrecional"
+      },
+      "caja": "El valor \"caja\" puede ser positivo o negativo de acuerdo a los saldos de inversión del fondo. Si el valor es positivo indica que hay un saldo no invertido con el objetivo de proveer liquidez para distintos asuntos. Si el valor es negativo, los activos del fondo son mayores a su patrimonio indicando cierto apalancamiento de la estrategia."
+    },
+    "portfolioTable": {
+      "title": "<strong>Principales Activos </strong> (% del valor del Portafolio)",
+      "sectors": {
+        "Information Technology": "Tecnologías de la Información",
+        "Technology": "Tecnología",
+        "Materials": "Materiales",
+        "Utilities": "Servicios de Utilidad Pública",
+        "Financials": "Finanzas",
+        "Consumer Staples": "Consumo básico",
+        "Consumer Discretionary": "Consumo no básico",
+        "Energy": "Energía",
+        "Communication Services": "Servicios de Telecomunicaciones",
+        "Communications": "Servicios de Telecomunicaciones",
+        "Consumer, Cyclical": "Consumo cíclico",
+        "Consumer, Non-cyclical": "Consumo no cíclico",
+        "Financial": "Finanzas",
+        "Health Care": "Salud",
+        "Basic Materials": "Insumos básicos",
+        "Others": "Otros",
+        "Caja": "Caja",
+        "Real Estate": "Bienes raíces",
+        "Industrials": "Industriales",
+        "OTHERS": "Otros",
+        "Empty": ""
+      }
+    },
+    "strategyChars": {
+      "title": "Características de la estrategia",
+      "first": {
+        "title": "Equal Weight",
+        "text": "Company & Technology Agnostic. Lorem ipsumes della parte bus suna ser terna pa el delna norten est ortin."
+      },
+      "second": {
+        "title": "Disciplined Risk Management",
+        "text": "Reduce event and headline risks. Lorem ipsumes della parte bus suna ser terna pa el delna norten est ortin."
+      },
+      "third": {
+        "title": "Annual Rebalancing",
+        "text": "Mean Reversion and Momentum. Lorem ipsumes della parte bus suna ser terna pa el delna norten est ortin."
+      },
+      "fourth": {
+        "title": "Fundamental Research",
+        "text": "Understand industry behaviour. Lorem ipsumes della parte bus suna ser terna pa el delna norten est ortin."
+      }
+    },
+    "fundFees": {
+      "title": "Comisiones y documentos",
+      "documents": {
+        "factsheet": "Factsheet",
+        "internalRegulations": "Reglamento Interno",
+        "informationBooklet": "Folleto Informativo"
+      },
+      "table": {
+        "series": "Serie",
+        "fixedRemuneration": "Remuneración fija",
+        "variableRemuneration": "Remuneración variable",
+        "incomeRequirement": "Requisito ingreso"
+      },
+      "disclaimer": "* Se entenderá por “integrantes de una misma familia” a: (i) quienes mantengan entre sí una relación de parentesco hasta el segundo grado de consanguinidad o afinidad y las entidades controladas, directa o indirectamente, por cada una de esas personas; y (ii) los cónyuges y las entidades controladas, directa o indirectamente, por uno de ellos. Los integrantes de una familia deben ingresar el mismo día al fondo para cumplir el requisito.",
+      "multiaxisCommission": "Al {fixedCommission} de remuneración fija anual del Ameris DVA Multiaxis Serie {seriesName} se debe sumar un 0,90% de remuneración fija anual del DVA Global All Cap Ltd., el cual constituye el objeto principal de inversión del Ameris DVA Multiaxis.",
+      "siliconCommission": "Al {fixedCommission} de remuneración fija anual del Ameris DVA Silicon Fund Serie {seriesName} se debe sumar un 0,60% de remuneración fija anual del DVA Silicon Fund Ltd., el cual constituye el objeto principal de inversión del Ameris DVA Silicon Fund.",
+      "links": {
+        "9118": {
+          "factsheet": "https://dvacapital-files.s3.amazonaws.com/fund_factsheets/9118_fichaComercial.pdf",
+          "booklet": "https://www.cmfchile.cl/institucional/mercados/entidad.php?mercado=V&rut=9118&grupo=&tipoentidad=FIRES&row=AAAw%20cAAhAABP4MAAV&vig=VI&control=svs&pestania=68",
+          "internalRegulations": "https://www.cmfchile.cl/institucional/mercados/entidad.php?mercado=V&rut=9118&grupo=&tipoentidad=FIRES&row=AAAw%20cAAhAABP4MAAV&vig=VI&control=svs&pestania=56"
+        },
+        "9395": {
+          "factsheet": "https://dvacapital-files.s3.amazonaws.com/fund_factsheets/9395_fichaComercial.pdf",
+          "booklet": "https://www.cmfchile.cl/institucional/mercados/entidad.php?mercado=V&rut=9395&grupo=&tipoentidad=FIRES&row=AAAw%20cAAhAABP4RAAB&vig=VI&control=svs&pestania=68",
+          "internalRegulations": "https://www.cmfchile.cl/institucional/mercados/entidad.php?mercado=V&rut=9395&grupo=&tipoentidad=FIRES&row=AAAw%20cAAhAABP4RAAB&vig=VI&control=svs&pestania=56"
+        },
+        "9725": {
+          "factsheet": "https://dvacapital-files.s3.amazonaws.com/fund_factsheets/9725_fichaComercial.pdf",
+          "booklet": "https://www.cmfchile.cl/institucional/mercados/entidad.php?mercado=V&rut=9725&grupo=&tipoentidad=FIRES&row=AAAw%20cAAhAABP4WAAf&vig=VI&control=svs&pestania=68",
+          "internalRegulations": "https://www.cmfchile.cl/institucional/mercados/entidad.php?mercado=V&rut=9725&grupo=&tipoentidad=FIRES&row=AAAw%20cAAhAABP4WAAf&vig=VI&control=svs&pestania=56"
+        },
+        "9937": {
+          "factsheet": "https://dvacapital-files.s3.amazonaws.com/fund_factsheets/9937_fichaComercial.pdf",
+          "booklet": "https://www.cmfchile.cl/institucional/mercados/entidad.php?mercado=V&rut=9937&grupo=&tipoentidad=FIRES&row=AAAw%20cAAhAABQKEAAG&vig=VI&control=svs&pestania=68",
+          "internalRegulations": "https://www.cmfchile.cl/institucional/mercados/entidad.php?mercado=V&rut=9937&grupo=&tipoentidad=FIRES&row=AAAw%20cAAhAABQKEAAG&vig=VI&control=svs&pestania=56"
+        },
+        "9958": {
+          "factsheet": "https://dvacapital-files.s3.amazonaws.com/fund_factsheets/9958_fichaComercial.pdf",
+          "booklet": "https://www.cmfchile.cl/institucional/mercados/entidad.php?mercado=V&rut=9958&grupo=&tipoentidad=FIRES&row=AAAw%20cAAhAABQKHAAG&vig=VI&control=svs&pestania=68",
+          "internalRegulations": "https://www.cmfchile.cl/institucional/mercados/entidad.php?mercado=V&rut=9958&grupo=&tipoentidad=FIRES&row=AAAw%20cAAhAABQKHAAG&vig=VI&control=svs&pestania=56"
+        },
+        "9994": {
+          "factsheet": "https://dvacapital-files.s3.amazonaws.com/fund_factsheets/9994_fichaComercial.pdf",
+          "booklet": "https://www.cmfchile.cl/institucional/mercados/entidad.php?mercado=V&rut=9994&grupo=&tipoentidad=RGFMU&row=AAAw%20cAAhAABQKFAAM&vig=VI&control=svs&pestania=68",
+          "internalRegulations": "https://www.cmfchile.cl/institucional/mercados/entidad.php?mercado=V&rut=9994&grupo=&tipoentidad=RGFMU&row=AAAw%20cAAhAABQKFAAM&vig=VI&control=svs&pestania=56"
+        },
+        "10074": {
+          "factsheet": "https://dvacapital-files.s3.amazonaws.com/fund_factsheets/10074_fichaComercial.pdf",
+          "booklet": "https://www.cmfchile.cl/institucional/mercados/entidad.php?mercado=V&rut=10074&grupo=&tipoentidad=FIRES&row=AAAw%20cAAhAABQKFAAW&vig=VI&control=svs&pestania=68",
+          "internalRegulations": "https://www.cmfchile.cl/institucional/mercados/entidad.php?mercado=V&rut=10074&grupo=&tipoentidad=FIRES&row=AAAw%20cAAhAABQKFAAW&vig=VI&control=svs&pestania=56"
+        }
+      },
+      "noEntryRequirement": "No contempla"
+    },
+    "howToInvest": {
+      "title": "¿Cómo invertir en este fondo?",
+      "alternativesText": "<strong> Para invertir en este fondo, tienes dos alternativas: </strong>",
+      "alternatives": "<ol> <li> Puedes <a href='https://mi.dvacapital.com/signup'> crear tu cuenta </a> de inversión con nosotros y transferir directamente al fondo. </li> <li> Puedes comprar el fondo directamente a través de la <a href='https://www.bolsadesantiago.com/'> Bolsa de Comercio de Santiago </a> </li> </ol>",
+      "text": "La administración del fondo {fundName} es realizada por Ameris Capital Administradora General de Fondos S.A. y la gestión de cartera del Fondo es realizada por DVA Capital S.A. La fiscalización de Ameris Capital Administradora General de Fondos S.A. y del fondo {fundName} corresponde a la Comisión para el Mercado Financiero (CMF). La rentabilidad o ganancia obtenida en el pasado por este Fondo, no garantiza que ella se repita en el futuro. Los valores de las cuotas de los fondos son variables. Infórmese de las características esenciales de la inversión en este fondo de inversión, las que se encuentran contenidas en su reglamento interno, contrato de suscripción de cuotas, contrato de promesa de suscripción y facsímil de título. Para informarse de la situación financiera del fondo, revise sus estados financieros. Rankings se presentan convirtiendo todos los fondos a la misma moneda.",
+      "series": "<strong>Serie {series} -</strong> Nemotécnico {fundName}: {symbol}",
+      "table": {
+        "series": "Serie",
+        "nemo": "Nemotécnico",
+        "usdSymbol": "Nemotécnico Dólar"
+      }
+    },
+    "purpleBanner": {
+      "title": "¿Quieres invertir <strong> con nosotros?</strong>",
+      "buttonText": "Crear mi cuenta online"
+    }
+  },
+  "landing": {
+    "title": "Invierte con nosotros en las tendencias que están cambiando el mundo",
+    "mobileTitle": "Captura el poder de los mercados",
+    "subtitle": "Invertimos en las tendencias que están cambiando el mundo",
+    "whyUs": {
+      "heading": "Por qué DVA",
+      "title": "desarrollando soluciones de inversión",
+      "titleBold": "10 años",
+      "left": {
+        "title": "Regulados por la CMF",
+        "text": "Todos nuestros fondos se encuentran regulados por la Comisión para el Mercado Financiero, entidad independiente que busca el correcto funcionamiento, desarrollo y estabilidad del mercado financiero."
+      },
+      "right": {
+        "title": "Fondos administrados por Ameris Capital",
+        "text": "Todos los fondos a los que DVA Capital administra la cartera son administrados por Ameris Capital AGF, una administradora de fondos de inversión que cuenta con más de 10 años de experiencia y más de $1.500 millones bajo administración."
+      }
+    },
+    "howToInvest": {
+      "heading": "Cómo invertir",
+      "title": "Con DVA, invertir es",
+      "titleBold": "simple, rápido y sin papeleos",
+      "text": "Podrás abrir tu cuenta 100% online, sin papeleos y sólo con tu carnet de identidad. En menos de 10 minutos podrás transformarte en un inversionista. Puedes seguir nuestra recomendación de inversión o  elegir los fondos que más te interesan."
+    },
+    "benefits": {
+      "heading": "Beneficios de invertir",
+      "title": "Con DVA, invertir es <br> <strong> simple, rápido y sin papeleos </strong>",
+      "first": {
+        "title": "Cuenta online",
+        "text": "Sin complicaciones ni trámites innecesarios: en 5 minutos tendrás tu cuenta de cliente, 100% online."
+      },
+      "second": {
+        "title": "Sin montos mínimos",
+        "text": "Invierte el monto que desees; con nosotros no existen las restricciones de montos para tus inversiones."
+      },
+      "third": {
+        "title": "Tu plata a tu nombre",
+        "text": "Tus inversiones quedan seguras en fondos de Ameris Administradora General de Fondos S.A."
+      },
+      "fourth": {
+        "title": "Retira cuando quieras",
+        "text": "Haz el retiro de tus fondos cuando tú quieras, sin costo extra y directamente hacia una cuenta a tu nombre."
+      },
+      "button": {
+        "text": "Crear mi cuenta online"
+      }
+    },
+    "philosophy": {
+      "heading": "La filosofía DVA",
+      "title": "Crear. Creer. Crecer.",
+      "first": {
+        "text": "Investigamos, viajamos y estudiamos analizando las tendencias que mueven y cambian al mundo. Diseñamos estrategias únicas para tus inversiones."
+      },
+      "second": {
+        "text": "Estamos convencidos que la disciplina es la clave para alcanzar nuestros objetivos. El camino es largo y te queremos acompañar."
+      },
+      "third": {
+        "text": "Invertimos diseñando estrategias para multiplicar tu esfuerzo. Alcanzar tus metas será solo cuestión de tiempo."
+      }
+    },
+    "blueBanner": {
+      "title1": "Invierte en fondos únicos en Chile",
+      "text1": "No nos conformamos con invertir en fondos de terceros. Buscamos tendencias que estén cambiando el mundo, para poner a tu alcance las mejores alternativas de inversión. Captura la digitalización del mundo, el desarrollo de la tecnología médica y mucho más.",
+      "title2": "Inversiones a <br> <strong> un precio justo </strong>",
+      "text2": "En DVA, creemos en la transparencia con nuestros clientes. Sin letra chica ni costos escondidos. Sabemos que la comisión es un componente importante del retorno de largo plazo, por eso cobramos un precio justo para que tus retornos se compongan en el tiempo."
+    },
+    "modal": {
+      "toolbar": "Consejos para invertir",
+      "buttonText": "Consejos para invertir",
+      "close": "cerrar"
+    },
+    "yourGoals": {
+      "heading": "Define tus objetivos",
+      "title": "Distintos caminos, <br> <strong> una sola misión </strong> ",
+      "text": "Nuestros objetivos determinan en qué invertir. Te ayudamos a tomar la mejor decisión según tus metas y te acompañamos en el camino a alcanzarlas.",
+      "button": {
+        "left": {
+          "text": "Consejos para invertir"
+        },
+        "right": {
+          "text": "Define tus objetivos"
+        }
+      }
+    },
+    "frequentQuestions": {
+      "title": "Preguntas frecuentes <br> <strong> sobre invertir con nosotros </strong>",
+      "heading": "preguntas frecuentes",
+      "1": {
+        "number": "01",
+        "question": "¿Cómo es el proceso y plazos para el rescate de mis fondos?",
+        "answer": "Puedes hacer rescates totales o parciales cuando quieras. Estos se pagan dentro del plazo máximo de 15 días corridos siguientes a contar de la fecha de presentación de la solicitud de rescate, o desde la fecha en que se dé curso al rescate, si se trata de un rescate programado.  "
+      },
+      "2": {
+        "number": "02",
+        "question": "Soy inversionista nuevo; ¿Cuánto se demora mi dinero en estar invertido?",
+        "answer": "Si inviertes en un día hábil antes de las 14:00 hrs. tu dinero está invertido durante el mismo día y se reflejará en <a href='https://mi.dvacapital.com/'> mi.dvacapital.com</a>  en la mañana del próximo día hábil. Si tu transferencia fue posterior a las 14:00 hrs. o durante un fin de semana o festivo, entonces tu inversión ingresará al siguiente día hábil."
+      },
+      "3": {
+        "number": "03",
+        "question": "¿Quién fiscaliza a los fondos ofrecidos por DVA Capital?",
+        "answer": "Todos los fondos mutuos y de inversión ofrecidos en DVA Capital son administrados por Ameris Capital Administradora General de Fondos (Ameris Capital AGF). La Comisión para el Mercado Financiero (CMF) autoriza la existencia de las sociedades que administran fondos (AGF) y supervisa que dichas sociedades y sus fondos cumplan los requisitos establecidos en la ley y su reglamento, mediante la revisión de su información legal, financiera y contable."
+      },
+
+      "4": {
+        "number": "04",
+        "question": "¿Puedo agregar dinero a mis fondos todos los meses?",
+        "answer": "No existen restricciones en la frecuencia de inversión. Puedes invertir todos los meses, e incluso, las veces que quieras dentro de un mismo mes."
+      },
+
+      "5": {
+        "number": "05",
+        "question": "¿Existe algún monto mínimo para invertir?",
+        "answer": "No existen montos mínimos para realizar una inversión."
+      },
+      "6": {
+        "number": "06",
+        "question": "¿Puedo revisar el progreso de mis fondos en alguna parte?",
+        "answer": "Puedes mantener el seguimiento del progreso de tus fondos en tu cuenta de <a href='https://mi.dvacapital.com/' > mi.dvacapital.com </a>"
+      }
+    },
+    "contact": {
+      "titleBold": "¿Tienes preguntas?",
+      "title": "Chatea con nosotros",
+      "button": "Chatear con un experto",
+      "hipertext": "O envíanos un correo a clientes@dvacapital.cl"
+    }
+  },
+  "homepage": {
+    "banner": {
+      "title": "Lleva tus inversiones al siguiente nivel",
+      "subtitle": "Invierte en fondos especializados. Rápido, simple y 100% digital. Diseña tu propio portafolio o sigue una recomendación de inversión según tu perfil.",
+      "start": "Empezar",
+      "cmf": {
+        "title": "Regulados por la CMF",
+        "description": "Invierte tranquilo. Todos nuestros fondos están regulados por la Comisión para el Mercado Financiero, entidad que asegura el correcto funcionamiento del mercado financiero."
+      }
+    },
+    "howDoesItWork": {
+      "title": "¿Cómo funciona?",
+      "seeMore": "Ver más"
+    },
+    "portfolio": {
+      "title": "Diseña tu portafolio o recibe una recomendación en minutos",
+      "description": "Invierte de forma avanzada diseñando tu propio portafolio o recibiendo una       recomendación de acuerdo a tu perfil de inversionista.",
+      "recommand": "Ir al Recomendador"
+    },
+    "client": {
+      "title": "Lo que dicen los clientes"
+    },
+    "whyDVA": {
+      "title": "Entonces, ¿por qué DVA?"
+    }
+  },
+  "usView": {
+    "title": "El equipo",
+    "description": "Más de 10 años desarrollando productos de inversión. Analizamos datos, viajamos, investigamos comportamientos y captamos nuevas tendencias. Desarrollamos herramientas tecnológicas para mejorar nuestra capacidad de análisis."
+  }
+}
